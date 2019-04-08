@@ -4,6 +4,3 @@
 [submodule "discovery-server"]
 	path = discovery-server
 	url = https://github.com/moduleap/discovery-server.git
-[submodule "register-api"]
-	path = register-api
-	url = https://github.com/moduleap/register-api.git
