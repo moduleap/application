@@ -1,0 +1,3 @@
+[submodule "auth-api"]
+	path = auth-api
+	url = https://github.com/moduleap/auth-api.git
