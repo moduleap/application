@@ -12,6 +12,7 @@
     <modules>
         <module>discovery-server</module>
         <module>auth-api</module>
+        <module>item-api</module>
     </modules>
 
     <parent>

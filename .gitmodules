@@ -4,3 +4,6 @@
 [submodule "discovery-server"]
 	path = discovery-server
 	url = https://github.com/moduleap/discovery-server.git
+[submodule "item-api"]
+	path = item-api
+	url = https://github.com/moduleap/item-api.git
